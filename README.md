@@ -1,5 +1,5 @@
 # lab_3_group
-<<<<<<< HEAD
+<<<<<<< HEAD Project Team Member:
 Christian Lee
 =======
 hello people whats up
