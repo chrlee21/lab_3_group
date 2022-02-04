@@ -10,6 +10,7 @@ Noah Peterson?
 
 
 hello people whats up
+hi guys
 
 >>>>>>> main
 >>>>>>> Corrected the changes  made by Yarely
@@ -21,3 +22,4 @@ hello people whats up
 >>
 =======
 >>>>>>> main
+Corrected the changes made by Christian 
