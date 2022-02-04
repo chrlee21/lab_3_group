@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lab_3_group
 
 <<<<<<< HEAD Project Team Member:
@@ -18,3 +19,5 @@ hello people whats up
 >>>>
 >>>
 >>
+=======
+>>>>>>> main
